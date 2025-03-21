@@ -1,0 +1,1 @@
+import{_ as e}from"./q-CahiRufy.js";import{c as t,q as o}from"./q-4vI4nUjM.js";const a=t(o(()=>e(()=>import("./q-Bh0dwKpS.js"),[]),"s_AUcE0Hj1nF8")),n={title:"Lakshya Saini | A Web Developer",meta:[{name:"description",content:"Qwik site description"}]};export{a as default,n as head};
